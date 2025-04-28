@@ -57,11 +57,11 @@
     text-decoration: underline;
 }
 
-.aboutme {
+.about_me {
     margin-top: 60px;
 }
 
-.aboutme h1 {
+.about_me h1 {
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 14px;
@@ -69,14 +69,14 @@
     font-weight: bold;
 }
 
-.aboutme p {
+.about_me p {
     font-weight: 500;
 
     line-height: 30px;
     font-size: 12px;
 }
 
-.aboutme button {
+.about_me button {
     background-color: transparent;
     color: black;
     margin-top: 10px;
